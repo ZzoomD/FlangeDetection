@@ -48,3 +48,4 @@ validators==0.22.0
 watchdog==3.0.0
 webencodings==0.5.1
 wget==3.2
+pyopengl
