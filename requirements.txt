@@ -49,3 +49,4 @@ watchdog==3.0.0
 webencodings==0.5.1
 wget==3.2
 pyopengl
+opencv-python-headless
