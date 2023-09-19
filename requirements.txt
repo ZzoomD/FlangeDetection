@@ -164,3 +164,4 @@ y-py
 yarg==0.1.9
 ypy-websocket
 zipp
+opencv-python-headless==4.8.0.76
